@@ -12,8 +12,8 @@
 <p align="center">
   <a href="https://pedronhamirre.vercel.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/pedronhamirre"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:pedrooliv62@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=pedronhamirre&style=for-the-badge&color=2c5364&label=Profile+views" alt="Profile views" />
+  <!-- <a href="mailto:pedrooliv62@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=pedronhamirre&style=for-the-badge&color=2c5364&label=Profile+views" alt="Profile views" /> -->
 </p>
 
 ---
